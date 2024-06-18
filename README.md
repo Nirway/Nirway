@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Aspiring Software Developer | Python & Web Development Enthusiast 🐍🌐
 
-I'm on a journey to become a high-skilled software developer. Currently focused on learning Python and web development.
+I'm on a journey to become a high-skilled software developer. Currently focused on learning Python and web development.  
 Passionate about solving problems, building meaningful projects, and improving my skills every day.
 
 🛠️ Skills: Python, JavaScript, HTML, CSS
